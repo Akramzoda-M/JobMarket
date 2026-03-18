@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\JobMarket\\WorkWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\vacancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\workformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\workformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\vacancyregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\vacancyregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\workschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\workschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\scill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\scill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\skilllevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\skilllevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\searchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\searchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\languagelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\languagelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\contactlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\contactlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\rightscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\rightscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\communicationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\communicationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\lookup\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\lookup\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\base\\baselookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\base\\baselookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\entities\\custom\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\entities\\custom\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|d:\\github\\jobmarket\\workwebapi\\workplatform.domain\\workplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69141A95-8257-4F0E-A4A5-1B09512317A6}|WorkPlatform.Domain\\WorkPlatform.Domain.csproj|solutionrelative:workplatform.domain\\workplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkFormat.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\WorkFormat.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\WorkFormat.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\WorkFormat.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\WorkFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:39:02.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Experience.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\Experience.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Experience.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:36:55.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkingHours.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\WorkingHours.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\WorkingHours.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\WorkingHours.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\WorkingHours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:32:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VacancyRegion.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\VacancyRegion.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\VacancyRegion.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\VacancyRegion.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\VacancyRegion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:13:38.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkSchedule.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\WorkSchedule.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\WorkSchedule.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\WorkSchedule.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\WorkSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:10:57.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Currency.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\Currency.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Currency.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:37:35.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vacancy.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Vacancy.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\Vacancy.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Vacancy.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\Vacancy.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:29:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SkillLevel.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\SkillLevel.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\SkillLevel.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\SkillLevel.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\SkillLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:52:09.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Scill.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Scill.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\Scill.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Scill.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\Scill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:46:22.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Category.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\Category.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Category.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:45:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactLanguage.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\ContactLanguage.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\ContactLanguage.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\ContactLanguage.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\ContactLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:53:18.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LanguageLevel.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\LanguageLevel.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\LanguageLevel.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\LanguageLevel.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\LanguageLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:48:49.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Language.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\Language.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Language.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:46:44.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RightsCategory.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\RightsCategory.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\RightsCategory.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\RightsCategory.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\RightsCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:59:26.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Education.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Education.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\Education.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Education.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:51:04.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommunicationMethod.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\CommunicationMethod.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\CommunicationMethod.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\CommunicationMethod.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\CommunicationMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:46:24.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Country.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\Country.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Country.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:20:37.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Region.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\Region.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\Region.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:19:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchStatus.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\SearchStatus.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Lookup\\SearchStatus.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Lookup\\SearchStatus.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Lookup\\SearchStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:13:11.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Resume.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\Resume.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Resume.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\Resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:35:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Application.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\Application.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Application.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:19:33.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Contact.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\Contact.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Contact.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\Contact.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:13:18.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Account.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Custom\\Account.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Custom\\Account.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Custom\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:12:12.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseLookup.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Base\\BaseLookup.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Base\\BaseLookup.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Base\\BaseLookup.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Base\\BaseLookup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:12:03.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Class1.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Class1.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:11:39.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "WorkPlatform.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:11:02.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WorkPlatform.Domain.csproj",
+              "DocumentMoniker": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\WorkPlatform.Domain.csproj",
+              "RelativeDocumentMoniker": "WorkPlatform.Domain\\WorkPlatform.Domain.csproj",
+              "ToolTip": "D:\\GitHub\\JobMarket\\WorkWebAPI\\WorkPlatform.Domain\\WorkPlatform.Domain.csproj",
+              "RelativeToolTip": "WorkPlatform.Domain\\WorkPlatform.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T04:41:52.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
