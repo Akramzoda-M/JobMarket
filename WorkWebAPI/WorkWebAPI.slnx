@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="WorkPlatform.Domain/WorkPlatform.Domain.csproj" Id="69141a95-8257-4f0e-a4a5-1b09512317a6" />
-  <Project Path="WorkWebAPI/WorkWebAPI.csproj" />
-</Solution>
