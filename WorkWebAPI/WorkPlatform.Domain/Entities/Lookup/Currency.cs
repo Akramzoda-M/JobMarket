@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 using WorkPlatform.Domain.Entities.Base;
 
 namespace WorkPlatform.Domain.Entities.Lookup
 {
-    internal class Currency : BaseLookup
+	[Display(Name = "Валюта")]
+	internal class Currency : BaseLookup
     {
     }
 }

@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 using WorkPlatform.Domain.Entities.Base;
 
 namespace WorkPlatform.Domain.Entities.Lookup
 {
-    public class Education : BaseLookup
+	[Display(Name = "Образование")]
+	public class Education : BaseLookup
     {
     }
 }

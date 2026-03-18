@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 using WorkPlatform.Domain.Entities.Base;
 using WorkPlatform.Domain.Entities.Lookup;
 
 namespace WorkPlatform.Domain.Entities.Custom
 {
-    public class ContactLanguage : BaseEntity
+	[Display(Name = "Языки контакта")]
+	public class ContactLanguage : BaseEntity
     {
         public Guid ContactId { get; set; }
         public Contact? Contact { get; set; }

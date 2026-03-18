@@ -1,9 +1,11 @@
-﻿using WorkPlatform.Domain.Entities.Base;
+﻿using System.ComponentModel.DataAnnotations;
+using WorkPlatform.Domain.Entities.Base;
 using WorkPlatform.Domain.Entities.Lookup;
 
 namespace WorkPlatform.Domain.Entities.Custom
 {
-    internal class VacancyRegion : BaseEntity
+	[Display(Name = "Регион вакансии")]
+	internal class VacancyRegion : BaseEntity
     {
         public Guid VacancyId { get; set; }
         public Vacancy? Vacancy { get; set; }

@@ -1,8 +1,10 @@
-﻿using WorkPlatform.Domain.Entities.Base;
+﻿using System.ComponentModel.DataAnnotations;
+using WorkPlatform.Domain.Entities.Base;
 
 namespace WorkPlatform.Domain.Entities.Lookup
 {
-    public class SkillLevel : BaseLookup
+	[Display(Name = "Уровень навыка")]
+	public class SkillLevel : BaseLookup
     {
     }
 }
