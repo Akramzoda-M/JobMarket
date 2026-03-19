@@ -7,7 +7,7 @@ using WorkPlatform.Domain.Entities.Base;
 namespace WorkPlatform.Domain.Entities.Lookup
 {
 	[Display(Name = "Рабочие часы в день")]
-	internal class WorkingHoursPerDay : BaseLookup
+	public class WorkingHoursPerDay : BaseLookup
     {
     }
 }

@@ -7,7 +7,7 @@ using WorkPlatform.Domain.Entities.Base;
 namespace WorkPlatform.Domain.Entities.Lookup
 {
 	[Display(Name = "Валюта")]
-	internal class Currency : BaseLookup
+	public class Currency : BaseLookup
     {
     }
 }

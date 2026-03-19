@@ -7,7 +7,7 @@ using WorkPlatform.Domain.Entities.Base;
 namespace WorkPlatform.Domain.Entities.Lookup
 {
 	[Display(Name = "Опыт работы")]
-	internal class Experience : BaseLookup
+	public class Experience : BaseLookup
     {
     }
 }

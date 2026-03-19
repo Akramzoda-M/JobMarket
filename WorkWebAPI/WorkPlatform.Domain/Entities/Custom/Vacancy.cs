@@ -6,7 +6,7 @@ using WorkPlatform.Domain.Entities.Lookup;
 namespace WorkPlatform.Domain.Entities.Custom
 {
 	[Display(Name = "Вакансия")]
-	internal class Vacancy : BaseEntity
+	public class Vacancy : BaseEntity
     {
         public string Title { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;

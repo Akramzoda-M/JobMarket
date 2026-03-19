@@ -7,7 +7,7 @@ using WorkPlatform.Domain.Entities.Base;
 namespace WorkPlatform.Domain.Entities.Lookup
 {
 	[Display(Name = "График работы")]
-	internal class WorkSchedule : BaseLookup
+	public class WorkSchedule : BaseLookup
     {
     }
 }

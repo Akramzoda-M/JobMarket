@@ -7,7 +7,7 @@ using WorkPlatform.Domain.Entities.Base;
 namespace WorkPlatform.Domain.Entities.Lookup
 {
 	[Display(Name = "Формат работы")]
-	internal class WorkFormat : BaseLookup
+	public class WorkFormat : BaseLookup
     {
     }
 }
